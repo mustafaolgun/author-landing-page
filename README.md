@@ -2,6 +2,8 @@
 
 This project is a simple and elegant landing page designed for an author and storyteller. It is built using HTML and CSS to create a clean and modern page that showcases the author's books, biography, and contact information.
 
+Live github page: https://mustafaolgun.github.io/author-landing-page/
+
 ## Features
 
 - **Modern Design:** A minimalist interface that focuses on the content.
